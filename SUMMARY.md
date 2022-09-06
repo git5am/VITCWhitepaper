@@ -11,10 +11,10 @@
 * [Proof of Sweat](main/proof-of-sweat.md)
 * [VITC ‘Let's Get Moving’ App](main/vitc-lets-get-moving-app.md)
 
-## Math and Shit <a href="#ecoonomics" id="ecoonomics"></a>
+## Math and Shit <a href="#economics" id="economics"></a>
 
-* [Tokenomics](ecoonomics/tokenomics.md)
-* [Concurrent SBP rewards](ecoonomics/concurrent-sbp-rewards.md)
+* [Tokenomics](economics/tokenomics.md)
+* [Concurrent SBP rewards](economics/concurrent-sbp-rewards.md)
 
 ## Products and Partners <a href="#products" id="products"></a>
 
