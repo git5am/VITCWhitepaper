@@ -11,3 +11,5 @@ Snapshot blocks are created by nodes that participate in VITE’s consensus. The
 SBPs are rewarded (in VITE) based on the number of blocks they produce. Not all SBPs are equal, however - significantly more blocks are produced by the top 25 SBPs. This corresponds to greater rewards. SBPs rise up the rankings by receiving votes from VITE holders; each VITE is a vote for an SBP.&#x20;
 
 VITC was sponsored by VITE as an SBP in September 2021. VITE holders were able to support the VITC project by delegating their voting weight towards the Vitamin Coin SBP. Within a month, it had risen up the ranks to become one of the top 10 SBPs on the VITE network. Vitamin Coin receiving the SBP makes us the first meme coin to be self-sufficient without the need to sell the project’s own tokens to advance its development. This allows us to reduce the need for a home-token development fund often seen in crypto communities.
+
+<figure><img src="../.gitbook/assets/Snapshot_chain_pic.png" alt=""><figcaption></figcaption></figure>

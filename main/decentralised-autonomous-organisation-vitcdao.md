@@ -2,9 +2,9 @@
 
 The Vitamin Coin Decentralized Autonomous Organization (VITCDAO) is the first of its kind on VITE. It aims to be a community-driven platform using VITC as a governance token. Registered DAO members will receive income from two sources: one is the aforementioned SBP daily rewards and the other, a split of the 2% sale fee from the proposed VITC NFT market (VITCNFT). This market will be on the VITE network, which will enable fee-less NFT transactions. The distribution structure is outlined in the chart below. This approach allows the DAO to be self-sustaining, by using VITE itself to power the DAO.
 
-## IMAGE ONE HERE
+<figure><img src="../.gitbook/assets/Phase_Pic.png" alt=""><figcaption></figcaption></figure>
 
-## IMAGE TWO HERE
+<figure><img src="../.gitbook/assets/final_phase_pic.png" alt=""><figcaption></figcaption></figure>
 
 #### From January 2022, the distribution of daily SBP rewards (in terms of VITE) will be as follows:&#x20;
 
