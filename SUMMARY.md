@@ -11,7 +11,7 @@
 * [Proof of Sweat](main/proof-of-sweat.md)
 * [VITC ‘Let's Get Moving’ App](main/vitc-lets-get-moving-app.md)
 
-## Math and Shit <a href="#economics" id="economics"></a>
+## Nerd Zone <a href="#economics" id="economics"></a>
 
 * [Tokenomics](economics/tokenomics.md)
 * [Concurrent SBP Rewards](economics/concurrent-sbp-rewards.md)
