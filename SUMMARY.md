@@ -14,7 +14,7 @@
 ## Math and Shit <a href="#economics" id="economics"></a>
 
 * [Tokenomics](economics/tokenomics.md)
-* [Concurrent SBP rewards](economics/concurrent-sbp-rewards.md)
+* [Concurrent SBP Rewards](economics/concurrent-sbp-rewards.md)
 
 ## Products and Partners <a href="#products" id="products"></a>
 
