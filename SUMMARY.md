@@ -4,7 +4,7 @@
 
 ## Meat and Potatoes <a href="#main" id="main"></a>
 
-* [The Vite platform](main/the-vite-platform.md)
+* [The Vite Platform](main/the-vite-platform.md)
 * [Decentralised Autonomous Organisation (VITCDAO)](main/decentralised-autonomous-organisation-vitcdao.md)
 * [Community](main/community.md)
 * [Faucets](main/faucets.md)
