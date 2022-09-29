@@ -2,7 +2,7 @@
 
 ## [eDAO.onvite.app](https://edao.onvite.app):
 
-eDAO (or the ExpermintDAO), is a cross-chain service provider on to-and-from the Vite network.
+eDAO (or the ExpermintDAO), is a cross-chain service provider to-and-from the Vite network.
 
 eDAO shares withdrawal fees on select coins with VITC holders.
 
