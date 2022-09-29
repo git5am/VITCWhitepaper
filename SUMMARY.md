@@ -20,6 +20,7 @@
 
 * [VITCSwap](products/vitcswap.md)
 * [VITCStake](products/vitcstake.md)
+* [VITCStartup](products/vitcstartup.md)
 * [eDAO](products/edao.md)
 
 ***
