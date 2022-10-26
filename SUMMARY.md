@@ -23,6 +23,11 @@
 * [VITCStartup](products/vitcstartup.md)
 * [eDAO](products/edao.md)
 
+## Passed DAO Props
+
+* [eDAO VITC Fee Burn](passed-dao-props/5cGXXZh5eXNoV137BCpQ7.md)
+* [VITCRewards](passed-dao-props/SqeDaOqd73\_nqTXux4\_e0.md)
+
 ***
 
 * [Summary](summary.md)
