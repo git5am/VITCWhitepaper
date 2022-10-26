@@ -1,3 +1,7 @@
+---
+description: 'STATUS: IN PROGRESS'
+---
+
 # VITCRewards
 
 VITC DAO rewards have always been a hard concept to understand; register here, follow this account there. On top of UX issues, the VITC DAO rewards are extremely Quota intensive and are centralized.
