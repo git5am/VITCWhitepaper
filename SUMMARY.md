@@ -21,6 +21,7 @@
 * [VITCSwap](products/vitcswap.md)
 * [VITCStake](products/vitcstake.md)
 * [VITCStartup](products/vitcstartup.md)
+* [VITCVault](products/vitcvault.md)
 * [eDAO](products/edao.md)
 
 ## Passed DAO Props
