@@ -28,6 +28,7 @@
 
 * [VITCeDAOBurn](passed-dao-props/5cGXXZh5eXNoV137BCpQ7.md)
 * [VITCRewards](passed-dao-props/SqeDaOqd73\_nqTXux4\_e0.md)
+* [VITCLabor](passed-dao-props/vitclabor.md)
 
 ***
 
