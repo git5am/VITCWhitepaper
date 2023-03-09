@@ -1,10 +1,10 @@
+---
+description: 'STATUS: COMPLETE'
+---
+
 # VITCLabor
 
-
-
-**​**
-
-#### **Technicals:** <a href="#technicals" id="technicals"></a>
+**Technicals:**
 
 * A proposal to force any future DAO proposals to require adding:
 
